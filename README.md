@@ -5,7 +5,7 @@
 Shows Emojis alongside with the Unicode strings in your code. Uses the glyphs in the font of your VS Code.
 (Weekend project for learning TypeScript and VSCode extensions development - Enjoy!)
 
-\!\[Demo\]\(demo.gif\)
+![Demo](https://github.com/tboosters/vscode_view_unicode_emoji/blob/master/demo.gif)
 
 ## Requirements
 
