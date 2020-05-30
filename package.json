@@ -1,4 +1,5 @@
 {
+	"repository": "https://github.com/tboosters/vscode_view_unicode_emoji",
 	"publisher": "tboosters",
 	"name": "view-unicode-emoji",
 	"displayName": "View Unicode Emoji",
