@@ -1,4 +1,4 @@
-# view-unicode-emoji README
+# View Unicode Emoji
 
 ## Features
 
