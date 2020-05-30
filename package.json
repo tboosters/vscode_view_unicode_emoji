@@ -1,7 +1,7 @@
 {
 	"publisher": "tboosters",
-	"name": "view-emoji-string",
-	"displayName": "View Emoji String",
+	"name": "view-string-emoji",
+	"displayName": "View String Emoji",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {

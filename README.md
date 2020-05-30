@@ -1,4 +1,4 @@
-# view-emoji-string README
+# view-string-emoji README
 
 ## Features
 
@@ -13,11 +13,11 @@ VS Code >= 1.45.0
 
 ## Know Issues
 
- - Requires supports prefix of 'param_data="'
+ - Requires prefix of 'param_data="' before the Emoji Unicode
  - Only the base style is shown for 'people' type emojis that have different skin colors.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release
