@@ -1,11 +1,11 @@
-# view-string-emoji README
+# view-unicode-emoji README
 
 ## Features
 
 Shows Emojis alongside with the Unicode strings in your code. Uses the glyphs in the font of your VS Code.
 (Weekend project for learning TypeScript and VSCode extensions development - Enjoy!)
 
-\!\[Demo\]\(demo.png\)
+\!\[Demo\]\(demo.gif\)
 
 ## Requirements
 
